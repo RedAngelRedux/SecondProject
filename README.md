@@ -1,2 +1,2 @@
 # SecondProject
-My second project for Coder Foundry - Learning Git
+My second project for Coder Foundry - Learning Git  Hello Everyone!
